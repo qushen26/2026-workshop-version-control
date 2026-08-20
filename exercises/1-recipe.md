@@ -5,12 +5,7 @@
 
 A simple meal.
 
-<br />
-<div align="center">
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQENgHPSp5l7dNPPXXB8rDktIfa93vBX0z9WW1U5Hz-1A&s=10
-</div>
-<br />
-
+![](https://www.nissinfoods.com/wp-content/uploads/2023/01/follow-test-1.jpg)
 ## Ingredients
 
 * Instant Noodle.
