@@ -7,7 +7,7 @@ A simple meal.
 
 <br />
 <div align="center">
-  https://en.wikipedia.org/wiki/Cup_noodle
+https://upload.wikimedia.org/wikipedia/commons/c/c4/Cup-Noodles-2.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original
 </div>
 <br />
 
