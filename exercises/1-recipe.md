@@ -1,25 +1,29 @@
-Use this file as a template to get started with your recipe. You can find the Markdown [here](/exercises/1-recipe.md?plain=1).
 
 # Instant Noodle.
 
 ## Shen
 
-Write a description of your recipe here.
+A simple meal.
 
 <br />
 <div align="center">
-  If you'd like to include an image of the dish your recipe makes, you can copy it to your clipboard, open this file in the GitHub editor, and paste it where this text is. Otherwise, feel free to delete this section.
+  https://en.wikipedia.org/wiki/Cup_noodle
 </div>
 <br />
 
 ## Ingredients
 
-* Write a list of ingredients here.
+* Instant Noodle.
+* Water
 
 ## Instructions
-
-1. Write step-by-step instructions here.
+1. Boil Water
+2. Open lid
+3. Add flavor
+4. Pour hot water
+5. Wait
 
 ## Serving Suggestions
 
-* Write serving suggestions here.
+* Avoid hot water burns.
+* Avoid too Salty or too Spicy.
