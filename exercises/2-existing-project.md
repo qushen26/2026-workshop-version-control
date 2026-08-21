@@ -11,3 +11,9 @@ If you have an existing project you would like to put under version control, you
 7. Run the commands `git add .` and `git commit -m "Initial commit"`
 
 Now you have a local `git` repository with your project files in it! If you would like to put it on GitHub, you can follow the instructions [here](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github?platform=windows).
+
+- List branches:
+git branch
+
+- Create a branch:
+git switch -c <name>
